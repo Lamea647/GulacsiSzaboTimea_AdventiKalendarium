@@ -15,7 +15,7 @@ while (count($szamok) != 24) {
 ?>
 
 <div>
-    <h1>Adventi kalendárium</h1>
+    <h3 style="text-align:center;">Adventi kalendárium</h3>
     <div class="grid-container">
     <?php
     for ($x = 0; $x < 24; $x++) {?>

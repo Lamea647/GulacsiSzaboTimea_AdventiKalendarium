@@ -1,10 +1,10 @@
 <div>
     <p style="color:red" id="hiba"></p>
-    <h1>Új tétel rögzítése</h1>
+    <h3>Új tétel rögzítése</h3>
     <form onsubmit="return validalas();" method="post">
         <input type="text" name="tartalom" id="tartalom" placeholder="Tétel" required>
         <br>
-        <input type="submit" value="Rögzít">
+        <input style="color:blue;" type="submit" value="Rögzít">
     </form>
 </div>
 

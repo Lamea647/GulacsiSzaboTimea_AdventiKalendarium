@@ -1,5 +1,5 @@
 <div>
-    <h1>Adventi kalendárium tételeinek listája</h1>
+    <h3>Adventi kalendárium tételeinek listája</h3>
     <?php if (isset($tetelek)): ?>
         <?php if (!empty($tetelek)): ?>
             <table>
